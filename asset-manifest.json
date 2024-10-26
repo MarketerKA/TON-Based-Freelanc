@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarketerKA/TON-Based-Freelance/static/css/main.05eebaf4.css",
+    "main.js": "/MarketerKA/TON-Based-Freelance/static/js/main.9f4b5b20.js",
+    "index.html": "/MarketerKA/TON-Based-Freelance/index.html",
+    "main.05eebaf4.css.map": "/MarketerKA/TON-Based-Freelance/static/css/main.05eebaf4.css.map",
+    "main.9f4b5b20.js.map": "/MarketerKA/TON-Based-Freelance/static/js/main.9f4b5b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05eebaf4.css",
+    "static/js/main.9f4b5b20.js"
+  ]
+}
