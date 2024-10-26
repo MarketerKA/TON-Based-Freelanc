@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TON-Based-Freelance/static/css/main.05eebaf4.css",
-    "main.js": "/TON-Based-Freelance/static/js/main.9f4b5b20.js",
+    "main.css": "/TON-Based-Freelance/static/css/main.6d8d7151.css",
+    "main.js": "/TON-Based-Freelance/static/js/main.60da336a.js",
     "index.html": "/TON-Based-Freelance/index.html",
-    "main.05eebaf4.css.map": "/TON-Based-Freelance/static/css/main.05eebaf4.css.map",
-    "main.9f4b5b20.js.map": "/TON-Based-Freelance/static/js/main.9f4b5b20.js.map"
+    "main.6d8d7151.css.map": "/TON-Based-Freelance/static/css/main.6d8d7151.css.map",
+    "main.60da336a.js.map": "/TON-Based-Freelance/static/js/main.60da336a.js.map"
   },
   "entrypoints": [
-    "static/css/main.05eebaf4.css",
-    "static/js/main.9f4b5b20.js"
+    "static/css/main.6d8d7151.css",
+    "static/js/main.60da336a.js"
   ]
 }
