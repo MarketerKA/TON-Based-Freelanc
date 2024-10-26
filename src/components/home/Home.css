@@ -1,0 +1,47 @@
+.home-container {
+    padding: 20px;
+  }
+  
+  .intro h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .intro p {
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .publish-btn, .look-work-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .search-filter {
+    margin: 20px 0;
+  }
+  
+  .search-filter input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .project-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
