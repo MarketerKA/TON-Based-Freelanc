@@ -1,0 +1,38 @@
+:root {
+    /* Native Colors */
+    --bg-color: #FFFFFF;
+    --bg-color-dark: #212121;
+    --text-color: #000000;
+    --text-color-light: #FFFFFF;
+    --hint-color: #707579;
+    --link-color: #007AFF;
+    --link-color-alt: #2990FF;
+    --button-color: #007AFF;
+    --button-color-alt: #2990FF;
+    --button-text-color: #FFFFFF;
+    --secondary-bg-color: #EFEFF4;
+    --header-bg-color: #FFFFFF;
+    --header-bg-color-dark: #212121;
+    --accent-text-color: #007AFF;
+    --section-bg-color: #FFFFFF;
+    --section-bg-color-dark: #212121;
+    --section-header-text-color: #707579;
+    --subtitle-text-color: #707579;
+    --destructive-text-color: #E53935;
+    --destructive-bg-color: #FFFFFF;
+  
+    /* Additional Colors */
+    --skeleton-color: rgba(0, 0, 0, 0.03);
+    --divider-color: rgba(0, 0, 0, 0.15);
+    --outline-color: rgba(0, 0, 0, 0.05);
+    --surface-primary: #FFFFFFF5;
+    --surface-dark: #38383885;
+    --tertiary-bg-color: #F4F4F7;
+    --quaternary-bg-color: #F6F6FA;
+    --card-bg-color: #FFFFFF;
+    --card-bg-color-dark: #323232;
+    --green: #31D158;
+    --green-alt: #32E55E;
+    --destructive-background: #F1E2E6;
+  }
+  
